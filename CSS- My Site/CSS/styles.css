@@ -1,10 +1,32 @@
-div{
-    background-color: #DA1212;
+div {
+  background-color: #da1212;
 }
-   
-h1{
-    margin-top: 0;
+
+h1 {
+  margin-top: 0;
 }
-body{
-    margin: 0;
+body {
+  margin: 0;
+}
+.top-container {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  padding: 20px;
+  border: solid 10px;
+  
+}
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border: solid 20px;
+  margin-left: 260px;
+}
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin-left: 500px;
+  border: solid 10px;
 }
